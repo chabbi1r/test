@@ -1,0 +1,6 @@
+{
+  "name": "Smart OCR & AI Voice Editor",
+  "description": "An intelligent OCR app that extracts text from images and allows voice-based modifications using Gemini 3.1 Flash. Export to CSV and PDF.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
